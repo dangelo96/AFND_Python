@@ -79,7 +79,7 @@ def main():
     # Bloco try-except, trata erros com relação a leitura de variáveis de tipo int
     try:
 
-        print("\nBem vindo à Máquina de Estados AFD! Serão solicitados os parâmetros para a sua máquina como arquivo, "
+        print("\nBem vindo à Máquina de Estados AFND! Serão solicitados os parâmetros para a sua máquina como arquivo, "
               "número de estados, estado inicial, estado(s) final(s), alfabeto e transições.\n")
 
 
